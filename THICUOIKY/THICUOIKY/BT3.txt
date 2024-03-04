@@ -1,0 +1,19 @@
+Sinh vien thu 1 :
+Ma SV:1
+Ho SV:nguyen 
+Ten SV:nhi
+Ngay thang nam sinh cua SV:
+Ngay sinh:12
+Thang sinh:3
+Nam sinh:2003
+Diem qua trinh: 2
+Diem cuoi ky: 2Sinh vien thu 2 :
+Ma SV:2
+Ho SV:nguyen 
+Ten SV:thao
+Ngay thang nam sinh cua SV:
+Ngay sinh:23
+Thang sinh:2
+Nam sinh:2003
+Diem qua trinh: 3
+Diem cuoi ky: 2
